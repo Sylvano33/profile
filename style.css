@@ -1,0 +1,43 @@
+#profilepic {
+width: 200px;
+border-radius: 50%;
+}
+
+body {
+  background-color: rgb(240, 240, 245);
+  color: rgb(40, 40, 40);
+  font-size: 30px;
+  line-height: 1.6;
+  font-family: 'Roboto Condensed', sans-serif;
+}
+
+h1 {
+  color: #011F3F;
+  font-size: 50px;
+  font-family: 'Montserrat', sans-serif;
+}
+
+h2 {
+  color: #C40018;
+  font-size: 40px;
+  font-family: 'Montserrat', sans-serif;
+}
+
+h3 {
+  color: rgb(40, 40, 40);
+  font-size: 25px;
+  font-family: 'Montserrat', sans-serif;
+}
+
+a {
+  color: blue;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+p {
+  font-size: 20px;
+}
